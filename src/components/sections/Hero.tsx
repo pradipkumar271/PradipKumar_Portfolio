@@ -126,7 +126,7 @@ export const Hero: React.FC = () => {
                 <div className="w-full aspect-[4/5] rounded-xl overflow-hidden bg-slate-900 relative">
                   <img
                     src={PERSONAL_INFO.profileImage}
-                    alt="Pradip Kumar"
+                    alt="Pradipkumar"
                     className="w-full h-full object-cover object-center transform group-hover:scale-105 transition-transform duration-500"
                     onError={(e) => {
                       (e.target as HTMLElement).style.display = 'none';

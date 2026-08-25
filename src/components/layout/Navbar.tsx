@@ -61,7 +61,7 @@ export const Navbar: React.FC<NavbarProps> = ({ isDark, onToggleTheme }) => {
           <a
             href="#"
             className="flex items-center gap-2.5 group focus:outline-none"
-            aria-label="Pradip Kumar Home"
+            aria-label="Pradipkumar Home"
           >
             <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-emerald-500 to-indigo-500 flex items-center justify-center text-white font-bold text-base shadow-sm group-hover:scale-105 transition-transform">
               PK

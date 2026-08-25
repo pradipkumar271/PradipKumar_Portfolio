@@ -62,7 +62,7 @@ export const Footer: React.FC = () => {
 
           {/* Scroll to Top & Copyright */}
           <div className="flex items-center gap-4 text-xs text-muted">
-            <span>© {currentYear} Pradip Kumar. Built with care and code.</span>
+            <span>© {currentYear} Pradipkumar. Built with care and code.</span>
             <button
               onClick={scrollToTop}
               className="p-2 rounded-lg border border-border bg-card hover:bg-card-hover text-muted hover:text-foreground transition-colors"
