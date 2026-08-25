@@ -1,7 +1,7 @@
 import { Project, Experience, Certification, SkillCategory, Education } from '../types';
 
 export const PERSONAL_INFO = {
-  name: 'PradipKumar',
+  name: 'Pradipkumar',
   fullName: 'Pradipkumar Pragjibhai Khuman',
   role: 'Full Stack & AI Developer',
   tagline: 'Engineering scalable web applications and high-accuracy AI models with clean architecture.',

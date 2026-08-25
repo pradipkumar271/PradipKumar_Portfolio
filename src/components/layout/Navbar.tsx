@@ -68,7 +68,7 @@ export const Navbar: React.FC<NavbarProps> = ({ isDark, onToggleTheme }) => {
             </div>
             <div className="flex flex-col">
               <span className="text-sm sm:text-base font-bold tracking-tight text-foreground group-hover:text-accent transition-colors">
-                PradipKumar
+                Pradipkumar
               </span>
               <span className="text-[10px] font-mono text-muted uppercase tracking-wider hidden sm:block">
                 Full Stack & AI
