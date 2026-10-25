@@ -172,7 +172,7 @@ export const Contact: React.FC<ContactProps> = ({ onShowToast }) => {
                   rows={4}
                   value={message}
                   onChange={(e) => setMessage(e.target.value)}
-                  placeholder="Hi Pradip, I reviewed your portfolio and would like to discuss..."
+                  placeholder="Hi Pradipkumar, I reviewed your portfolio and would like to discuss..."
                   className="w-full px-4 py-2.5 rounded-xl bg-surface border border-border text-foreground text-xs sm:text-sm placeholder:text-subtle focus:outline-none focus:ring-2 focus:ring-accent resize-none"
                 />
               </div>
